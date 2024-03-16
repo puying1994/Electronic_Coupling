@@ -16,7 +16,7 @@ dimer.log
 
 When doing calculation using gaussian, do add the following keywords for both dimer and monomers:
 ```
-# b3lyp/6-31* iop(3/33=1) punch=mo nosymm pop=full
+# iop(3/33=1) punch=mo nosymm pop=full
 ```
 
 
